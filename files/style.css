@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+    color: white;
+    font-family: Inter;
+}
+
+#topnav{
+    background-color: black;
+    border-bottom: 3px solid white;
+    width: auto;
+    height: auto;
+    margin-left: 0%;
+    margin-right: 20%;
+}
