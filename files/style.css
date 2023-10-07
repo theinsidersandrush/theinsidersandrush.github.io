@@ -1,14 +1,21 @@
 html{
     background-color: black;
     color: white;
-    font-family: Inter;
+    font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 #topnav{
     background-color: black;
     border-bottom: 3px solid white;
     width: auto;
-    height: auto;
-    margin-left: 0%;
-    margin-right: 20%;
+    height: 7%;
+}
+
+#svg-logo{
+    padding: 1%;
+    width: 13%
+}
+
+#navigation-button{
+    text-align: right;
 }
