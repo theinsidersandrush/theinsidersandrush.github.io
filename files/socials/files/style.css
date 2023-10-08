@@ -8,7 +8,7 @@ html{
   background-color: black;
   border: 3px solid white;
   width: auto;
-  margin: 1%;
+  margin: 2%;
   overflow: hidden;
 }
 
@@ -41,7 +41,7 @@ html{
 
 #content{
   text-align: center;
-  margin: 1%;
+  padding: 1%;
   width: auto;
   height: auto;
   border: 3px solid white;

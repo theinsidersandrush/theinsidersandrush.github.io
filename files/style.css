@@ -12,9 +12,14 @@ html{
     overflow: hidden;
 }
 
-#svg-logo{
+.copyleft {
+    display:inline-block;
+    transform: rotate(180deg);
+  }
+
+#logo{
     padding: 1%;
-    width: 13%
+    width: 3.2%
 }
   
   /* Style the links inside the navigation bar */
@@ -40,9 +45,15 @@ html{
   }
 
   #content{
+    background-color: blanchedalmond;
+    color: black;
     text-align: center;
+    padding: 5%;
     width: auto;
-    height: fit-content;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: auto;
+    float: center;
   }
 
   #footer{
