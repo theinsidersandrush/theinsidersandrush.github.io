@@ -16,11 +16,13 @@ html{
     padding: 1%;
     width: 13%
   }
-  
-  a.pagelink {color:#ffffff; text-decoration: none} /* Unvisited link  */
-a:visited {color:#ffffff;} /* Visited link    */
-a:hover {color:#ffffff;}   /* Mouse over link */
-a:active  {color:#ffffff;}  /* Selected link   */
+
+  a {color:#ffffff;}
+  a:visited {color:#ffffff;} 
+  a:hover {color:#ffffff;}   
+  a:active  {color:#ffffff;}  
+
+
   /* Style the links inside the navigation bar */
   #topnav a {
     float: right;
@@ -43,15 +45,42 @@ a:active  {color:#ffffff;}  /* Selected link   */
     color: white;
   }
   
+  #content-title{
+    border: 3px solid white;
+    margin: 1%;
+    padding: 0.5%;
+    text-align: center;
+  }
+
   #content{
-    background-image: url(/jokes/files/img/home-bg-texture.jpg.twimg.1920.jpg);
     text-align: center;
     margin: 1%;
-    padding: 5%;
+    padding: 2%;
     width: auto;
     height: auto;
+    border: 3px solid white;
+    background-color: #000000;
   }
-  
+
+  .stest-infoone{
+    border: 3px solid white;
+    margin: 1%;
+    padding: 2%;
+  }
+
+  .stest-details{
+    border: 3px solid white;
+    margin: 1%;
+    padding: 2%;
+  }
+
+  .video-box{
+    border: 3px solid white;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+  }
+
   #footer{
     border: 3px solid white;
     text-align: center;

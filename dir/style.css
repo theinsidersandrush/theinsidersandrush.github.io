@@ -76,6 +76,7 @@ html{
   border: 3px solid white;
   width: auto;
   margin: 1%;
+  background-color: #4e3459;
 }
 
 .div-twitter-xpage{
@@ -83,14 +84,15 @@ html{
   border: 3px solid white;
   width: auto;
   margin: 1%;
+  background-color: #1d9bf0;
 }
 
 }
 
 a.pagelink {color:#ffffff; text-decoration: none}          /* Unvisited link  */
-a.pagelink:visited {color:#ffffff;} /* Visited link    */
-a.pagelink:hover {color:#ffffff;}   /* Mouse over link */
-a.pagelink:active  {color:#ffffff;}  /* Selected link   */
+a:visited {color:#ffffff;} /* Visited link    */
+a:hover {color:#ffffff;}   /* Mouse over link */
+a:active  {color:#ffffff;}  /* Selected link   */
 
 #footer{
   border: 3px solid white;

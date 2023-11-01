@@ -16,11 +16,7 @@ html{
     padding: 1%;
     width: 13%
   }
-  
-  a.pagelink {color:#ffffff; text-decoration: none} /* Unvisited link  */
-a:visited {color:#ffffff;} /* Visited link    */
-a:hover {color:#ffffff;}   /* Mouse over link */
-a:active  {color:#ffffff;}  /* Selected link   */
+
   /* Style the links inside the navigation bar */
   #topnav a {
     float: right;
@@ -43,18 +39,8 @@ a:active  {color:#ffffff;}  /* Selected link   */
     color: white;
   }
   
-  #content{
-    background-image: url(/jokes/files/img/home-bg-texture.jpg.twimg.1920.jpg);
-    text-align: center;
-    margin: 1%;
-    padding: 5%;
-    width: auto;
-    height: auto;
-  }
-  
   #footer{
     border: 3px solid white;
     text-align: center;
     margin: 1%;
   }
-  

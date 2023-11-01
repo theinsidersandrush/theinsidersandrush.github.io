@@ -17,6 +17,11 @@ html{
     width: 13%
   }
 
+  a.pagelink {color:#ffffff; text-decoration: none} /* Unvisited link  */
+  a:visited {color:#ffffff;} /* Visited link    */
+  a:hover {color:#ffffff;}   /* Mouse over link */
+  a:active  {color:#ffffff;}  /* Selected link   */
+  
   a.touhou-ref {color:#ffffff;}
   a.touhou-ref:visited {color:#ffffff;} 
   a.touhou-ref:hover {color:#ffffff;}   
