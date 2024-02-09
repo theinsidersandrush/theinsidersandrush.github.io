@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="manifest" href="/files/manifest.json">
+    <script type="text/javascript">var year = new Date();document.write(year.getFullYear());</script>
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="stylesheet" href="/files/font/inter.css">
     <link rel="stylesheet" href="/jokes/IV/index.css">
@@ -30,7 +31,9 @@
 
     <div id="footer">
       <footer>
-        <p>Copyleft &#127279 2023 The Insider Sandrush. All wrongs reserved.</p>
+        <p>&#127279 Copyleft <span id="copyright">
+          <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
+      </span> The Insider Sandrush. All wrongs reserved.</p>
         <p><a href="https://github.com/theinsidersandrush/theinsidersandrush.github.io">Source code</a></p>
         <p><a href="/dir.html">Directory</a></p>
       </footer>
