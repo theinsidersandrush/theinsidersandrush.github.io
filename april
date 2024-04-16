@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <title>ur website haz ben hackd!!!</title>
+    <style>
+    h1 {
+        color: red;
+    }
+    body{
+        text-align: center;
+        color: white;
+        background-color:black;
+    }
+    </style>
+    <script src=
+"https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+   </script>
+     
+      <script>
+    $.getJSON("https://api.ipify.org?format=json", function(data) {
+        $("#ipaddy").html(data.ip);
+    })
+    </script>
+</head>
+ 
+<body>
+        <h1>Ur website haz been haked!!!!!!</h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/sWbD5q769Ms?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <p>yore IP address is:
+        <b id="ipaddy"></b></p>
+        <div id="useragent"></div>
+        
+        <script>
+            let userinfo = 
+"<p>yore useragent is " + navigator.userAgent + "</p>";
+
+document.getElementById("useragent").innerHTML = userinfo;
+        </script>
+        
+        <h3>
+            want free WiFi? Contact.: 
+            <a href="/links/contact-the-hacker/">here</a>
+        </h3>
+        <sub><i>prices start at $194mil Malaysian Ringgit (probably $41.2mil US Dollars)</i></sub>
+        <br>
+        <b>all of your garbage shite has ben leeked to yo daad's crib!!!!</b>
+
+        <b>XOXO from rebelz@ <a href="https://www.youtube.com/@voughtintl">Vought</a>.</b>
+        <p style="color: black;">This is a joke page.</p>
+        
+</body>
+ 
+</html>
