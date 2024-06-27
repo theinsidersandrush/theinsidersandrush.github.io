@@ -1,0 +1,350 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+			GTA VICE CITY STATS
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+LAST MISSION PASSED: Keep your Friends Close...
+DATE: 06/25/24
+
+
+Criminal rating:  Hired Muscle (2426)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Percentage completed
+51%
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mission attempts
+111
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Playing Time
+ 14:47
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Days passed in game
+52
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Safehouse visits
+49
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Rampages passed
+  1 out of 35
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Hidden Packages found
+  7 out of 100
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People you've wasted
+698
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People wasted by others
+211
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Road Vehicles destroyed
+148
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Boats destroyed
+17
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Planes & Helicopters destroyed
+9
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Tires popped with gunfire
+66
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total number of wanted stars attained
+165
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total number of wanted stars evaded
+95
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Times busted
+2
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Hospital visits
+4
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Number of headshots
+25
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Daily police spending
+$83018.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Least favorite gang
+
+
+Streetwannabe's
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Gang members wasted
+252
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Criminals wasted
+32
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Kgs of explosives used
+39
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Bullets fired
+11912
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Bullets that hit
+3979
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Accuracy
+33%
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Distance traveled on foot (m)
+65500.95
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Distance traveled by car (m)
+550397.81
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Distance traveled by bike (m)
+119751.21
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Distance traveled by boat (m)
+14389.07
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Distance traveled by golf cart (m)
+4731.96
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Distance traveled by helicopter (m)
+6135.34
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total distance traveled (m)
+770356.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump dist. (m)
+59.96
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump height (m)
+9.43
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump flips
+2
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Unique Jumps completed
+  3 out of 36
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Max. INSANE Jump rotation
+327º
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Best INSANE stunt so far
+
+
+Insane stunt
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Wheelie time (secs)
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Wheelie distance (m)
+0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Stoppie time (secs)
+0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest Stoppie distance (m)
+0.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest 2 wheels time (secs)
+2
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Longest 2 wheels distance (m)
+32.06
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Criminals killed on Vigilante Mission
+14
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest Vigilante Mission level
+4
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Passengers dropped off
+16
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Cash made in taxi
+$2974.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+People saved in an Ambulance
+10
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest Paramedic Mission level
+4
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Total fires extinguished
+439
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fire Truck Mission level 
+25
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Stores Knocked Off
+  1 out of 15
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Assassination Contracts Completed
+  5 out of 5
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Photographs Taken
+4
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+'Ice Cream' Sold
+53
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Best Percentage of hits for Shooter
+52
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'Alloy Wheels Of Steel'
+ 1:29
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'The Driver'
+ 2:13
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'Terminal Velocity'
+ 1:06
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fastest time on 'V.C. Endurance'
+ 4:51
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest score for Shooter
+62
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Number of drug deals made
+53
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Flight hours
+ 0:02
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fishes Fed
+1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Seagulls Sniped
+1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Most Favorite Radio Station
+
+
+VCPR
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Least Favorite Radio Station
+
+
+VROCK
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Sprayings
+48
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Weapon Budget
+$95900.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fashion Budget
+$320.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Budget
+$407000.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Auto Repair and Painting Budget
+$4000.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Destroyed
+$407000.00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Property Owned
+9
+
+The Malibu
+
+Print Works
+
+Film Studio
+
+Ice Cream Factory
+
+Car Showroom
+
+Taxi Company
+
+Pole Position Club
+
+1102 Washington Street
+
+Hyman Condo
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Highest media attention
+209
+
+Vice Courier Front page
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
