@@ -63,7 +63,13 @@ html{
     width: auto;
     margin: 1%;
 }
-
+  .div-licencepage{
+    background-color: rgb(111, 0, 255);
+    text-align: center;
+    border: 3px solid white;
+    width: auto;
+    margin: 1%;
+}
 .div-socialspage{
   text-align: center;
   border: 3px solid white;
