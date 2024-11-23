@@ -53,12 +53,15 @@ a.lemmy{
 .sb-mastodon{background-color: #563ACC; text-decoration: none; /* Green */}
 .sb-reddit{background-color: #ff4500;}
 .sb-lemmy{background-color: white;}
+.sb-patreon{background-color: #f96854;}
+.sb-patreon:hover{background-color: #e64413;}
 .sb-youtube{background-color: #FF0000;}
 .sb-youtube:hover{background-color: #ff0930;}
 a.instagram{color: black; text-decoration: none;}
 .sb-pixiv{background-color: #0096fa;}
 .sb-newgrounds{background-color: #fda138;}
 .sb-deviantART{border: 2px solid #d2decc; background-color: #314537;}
+a.oldpage{text-decoration: none;} a.oldpage:hover{text-decoration: underline;}
 
 /* Style the links inside the navigation bar */
 #topnav a {
