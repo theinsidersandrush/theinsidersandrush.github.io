@@ -9,15 +9,15 @@
     <link rel="shortcut icon" href="/files/icon.ico" />
 
     <meta property="og:image" content="files/logo.png">
-    <meta property="og:image:secure_url" content="files/logo.png">
+    <meta property="og:image:secure_url" content="/files/logo.png">
     <meta property="og:image:width" content="1024">
     <meta property="og:image:height" content="1024">
     <meta property="og:image:type" content="image/png">
-    <meta name="description" content="This is my website. It's build without JavaScript (almost) and other freaky stuff. Just pure HTML and CSS.">
+    <meta name="description" content="Read everything that I've ever published.">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="The Insider Sandrush">
     <meta property="og:title" content="The Insider Sandrush">
-    <meta property="og:description" content="This is my website. It's build without JavaScript (almost) and other freaky stuff. Just pure HTML and CSS.">
+    <meta property="og:description" content="Read everything that I've ever published.">
     <meta property="og:url" content="https://theinsidersandrush.github.io">
 
 
@@ -28,11 +28,159 @@
         <img id="logo" src="/files/weblogo.jpg">
         <a href="/about">About</a>
         <a href=/socials>Social Links</a>
-        <a class="active" href="#">Home</a>
+        <a href="/">Home</a>
         
     </div>
 
+    <style>
+
+* {
+  box-sizing: border-box;
+}
+
+
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: aliceblue;
+  color: #000000;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+  float: left;
+  width: 75%;
+  padding: 2%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding: 2%;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+.img-where-is-sirius {
+  background-image: url("images/lovetaste.jpg");
+  background-color: #aaa;
+  background-position: center;
+  width: 100%;
+  padding: 20px;
+}
+
+.img-a-year-without-dell-precision-m4500 {
+  background-image: url("2024/11/24/a-year-without-dell-precision-m4500/IMG_20210305_130953.jpg");
+  background-color: #aaa;
+  background-position: center;
+  width: 100%;
+  padding: 20px;
+}
+
+.fakeimg-about {
+  background-color: #aaa;
+  width: 100%;
+  padding: 100px;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: black;
+  padding: 20px;
+  margin-top: 20px;
+  color: aliceblue;
+  border: 2.5px solid white;
+}
+
+.about-card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  color: black;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+}
+
+#blog-links{
+  color: aliceblue;
+  text-decoration: none;
+  #blog-links:hover{
+      color: aliceblue;
+      text-decoration: underline;
+  }
+}
+
+    </style>
+    <div class="header">
+      <h2>The Insider Sandrush's blog.</h2>
+    </div>
     
+    <div class="row">
+      <div class="leftcolumn">
+        <div class="card">
+          <h2><a id="blog-links" href="2023/11/1/where-is-sirius">Where is Sirius?</a></h2>
+          <h5>Published on Wednesday, 1 November 2023, updated on Sunday, 3 November 2024</h5>
+          <div class="img-where-is-sirius" style="height:200px;">Image</div>
+          <p>They got hacked...</p>
+        </div>
+        <div class="card">
+          <h2><a id="blog-links" href="2024/11/24/a-year-without-dell-precision-m4500">It's been a year since I last used my old laptop.</a></h2>
+          <h5>Published on Sunday, 21 November 2024.</h5>
+          <div class="img-a-year-without-dell-precision-m4500" style="height:200px;"></div>
+          <p>An experience with it and what I'm using for now.</p>
+        </div>
+      </div>
+      <div class="rightcolumn">
+        <div class="about-card">
+          <h2>About The Insider Sandrush</h2>
+          <div class="fakeimg-about" style="height:100px;">
+          </div>
+          <p>I don't know.</p>
+        </div>
+        <div class="card">
+          <h3>Popular posts</h3>
+          <div class="fakeimg">Work in Progress</div><br>
+          <div class="fakeimg">Work in Progress</div><br>
+          <div class="fakeimg">Work in Progress</div>
+        </div>
+        <div class="card">
+          <h3>Follow Me</h3>
+          <p>Click the "Social links" button up there...</p>
+        </div>
+      </div>
+    </div>
+
+    <br>
 
     <div id="footer">
       <footer>
