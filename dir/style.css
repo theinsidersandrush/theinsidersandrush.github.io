@@ -44,6 +44,10 @@ html{
   color: white;
 }
 
+#directory:hover{
+  text-decoration: underline 3px;
+  transition: background-size 1s;
+}
 #content{
   background-color: rgb(0, 0, 0);
   color: rgb(255, 255, 255);
@@ -75,6 +79,15 @@ html{
   border: 3px solid white;
   width: auto;
   margin: 1%;
+}
+
+.div-astromalaysia-page{
+  background-color: #12074f;
+  color: aliceblue;
+  text-align: center;
+  width: auto;
+  margin: 1%;
+  border: 3px solid #f1081d;
 }
 
 .div-aboutpage{
