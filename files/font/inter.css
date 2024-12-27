@@ -198,3 +198,14 @@ explicitly, e.g.
   font-style: oblique 0deg 10deg;
   src: url("Inter.var.woff2?v=3.19") format("woff2");
 }
+
+/*End of Inter font*/
+
+/*Start of Noto fonts*/
+
+@font-face {
+  font-family: 'Noto Color Emoji';
+  src: url("NotoColorEmoji-Regular.ttf") format("ttf");
+  font-style:  normal;
+  font-weight: 400;
+}
