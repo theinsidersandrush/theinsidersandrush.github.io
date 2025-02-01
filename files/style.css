@@ -88,7 +88,8 @@ a:active  {color:#ffffff;}  /* Selected link   */
 .sb-twitter{background-color: #55acee; color: white; /* Green */}
 .sb-x-com{background-color: #000000; text-decoration: none; /* Green */}
 .sb-bluesky{background-color: #1185FE; text-decoration: none; /* Green */}
-.sb-mastodon{background-color: #563ACC; text-decoration: none; /* Green */}
+.sb-fediverse-mastodon{background-color: #563ACC; text-decoration: none; /* Green */}
+.sb-fediverse-pleroma-mikuobsession{background-color: rgb(19,122,127); text-decoration: none;}
 .sb-reddit{background-color: #ff4500;}
 .sb-lemmy{background-color: white;}
 .sb-patreon{background-color: #f96854;}
