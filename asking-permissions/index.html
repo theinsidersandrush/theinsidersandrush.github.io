@@ -61,42 +61,10 @@
         margin: 2%;
     }
 
-    #twitter-tweet-visualiser{
-        width: 100%;
-        height: 3%;
-    }
+    .asp-closed-noresponse{background-color: gray;}
+    .asp-completed-rejected{background-color: #ff3232;}
+    .asp-completed-accepted{background-color: teal;}
 
-    .twitter-tweet-visualiser-requester{
-        border: 3px solid aliceblue;
-        padding: 3.5%;
-    }
-
-    .twitter-tweet-visualiser-dnr-warning{
-        border: 3px solid aliceblue;
-        padding: 3.5%;
-    }
-
-    .twitter-tweet-visualiser-requesting-artist{
-        border: 3px solid aliceblue;
-        padding: 3.5%;
-    }
-
-    #twitter-dms-visualiser{
-      border: 3px solid aliceblue;
-      padding: 3.5%;
-      margin: auto;
-      .twitter-dms-visualiser-topbar{
-        border: 3px solid aliceblue;
-        padding: 3.5%;
-        margin: 1px;
-        .twitter-dms-visualiser-topbar-pfp{
-          height: 50px;
-          width: 50px;
-        }
-      }
-      
-      
-    }
     </style>
     <div id="content-specific">
         <div id="image-container">
@@ -120,11 +88,11 @@
             <h3>Here are some completed requests, either that is rejected, closed, and approved.</h3>
 
             <ul>
-                <li><a href="/asking-permissions/twitter/1583052791089573888/">[Twitter] Request from Migigi</a></li>
+                <li><a class="asp-closed-noresponse" href="/asking-permissions/twitter/1583052791089573888/">[Twitter] Request from Migigi</a></li>
                 <br>
-                <li><a href="/asking-permissions/bluesky/hs5itc52qrce5s7vyhgpizu2/3leoxc4enis2b/">[Bluesky] Request from みと❁︎</a></li>
+                <li><a class="asp-completed-rejected" href="/asking-permissions/bluesky/hs5itc52qrce5s7vyhgpizu2/3leoxc4enis2b/">[Bluesky] Request from みと❁︎</a></li>
                 <br>
-                <li><a href="/asking-permissions/twitter/direct-messages/1283454942720622592/request-2024-02-01/">[Twitter] Request from @kaitothigh via Twitter Direct Messages</a></li>
+                <li><a class="asp-completed-accepted" href="/asking-permissions/twitter/direct-messages/1191720485471444994/request-2024-02-01">[Twitter] Request from @kaitothigh via Twitter Direct Messages</a></li>
             </ul>
         </div>
       
