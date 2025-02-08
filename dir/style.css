@@ -86,6 +86,12 @@ html{
   width: auto;
   margin: 1%;
 }
+.div-askpermission{
+  text-align: center;
+  border: 3px solid aliceblue;
+  width: auto;
+  margin: 1%;
+}
 
 .div-astromalaysia-page{
   background-color: #12074f;
