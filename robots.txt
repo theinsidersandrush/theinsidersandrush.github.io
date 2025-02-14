@@ -1,0 +1,15 @@
+# Welcome to The Insider Sandrush's website's "robots.txt"
+# I strongly believed in an open internet and media, but not the misuse of other's content.
+# See the licence page on https://theinsidersandrush.github.io/licence to learn more on what content can you use, and what you cannot.
+# For safety (and copyright) reasons, every crawler (including AI "crawlers") can crawl this website, but only able to crawl the home page, where there's no images made by an individual that is against this whole generative AI.
+# I'm sorry, but this is for theirs, not me though.
+
+User-agent: *
+Allow: /$
+Disallow: /
+
+# From MediaWiki: 
+# A capture bot, downloads gazillions of pages with no public benefit.
+# http://www.webreaper.net/
+User-agent: WebReaper
+Disallow: /
