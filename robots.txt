@@ -1,4 +1,4 @@
-# Welcome to The Insider Sandrush's website's "robots.txt"
+# Welcome to The Insider Sandrush website's "robots.txt"
 # I strongly believed in an open internet and media, but not the misuse of other's content.
 # See the licence page on https://theinsidersandrush.github.io/licence to learn more on what content can you use, and what you cannot.
 # For safety (and copyright) reasons, every crawler (including AI "crawlers") can crawl this website, but only able to crawl the home page, where there's no images made by an individual that is against this whole generative AI.
