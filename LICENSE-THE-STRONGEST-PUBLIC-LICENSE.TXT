@@ -1,4 +1,4 @@
-[For hardcore open source contributors, this licence is a joke and also shold be ignored. This repository is under CC-BY-SA 4.0. See LICENCE.TXT for info.]
+[For hardcore open source contributors, this licence is a joke, and also should be ignored. This repository is under CC-BY-SA 4.0. See LICENCE.TXT for info.]
 
 /*
  *                THE STRONGEST PUBLIC LICENSE
