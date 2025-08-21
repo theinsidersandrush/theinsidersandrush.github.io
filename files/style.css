@@ -142,6 +142,7 @@ a.oldpage{text-decoration: none;} a.oldpage:hover{text-decoration: underline;}
 /*Sitemap*/
 .directory-button.dirbutton-mainpage{background: rgb(4, 48, 170, 0.5); color: aliceblue; /* Green */}
 .dirbutton-mediarepo{background-color: rgb(4, 48, 170, 0.5); color: aliceblue; /* Green */}
+.directory-button.dirbutton-kivotostwo{background: rgba(0, 68, 255, 0.5); color: aliceblue; /* Green */}
 .dirbutton-licence{background-color: rgb(111, 0, 255, 0.5); text-decoration: none; /* Green */}
 .dirbutton-socialspage{background: rgb(4, 48, 170, 0.0); text-decoration: none; /* Green */}
 .dirbutton-blogpage{background: rgb(4, 48, 170, 0.5); text-decoration: none; /* Green */}
