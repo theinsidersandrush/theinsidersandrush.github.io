@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html id="tsotm-leaving-2025" lang="en-GB" dir="ltr">
+<html id="palantir-reminder" lang="en-GB" dir="ltr">
   <head>
     <meta charset="UTF-8" />
     <link rel="manifest" href="/files/manifest.json">
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="stylesheet" href="/files/font/inter.css">
     <link rel="stylesheet" href="/files/style.css">
+    <!-- This breaks font I guess <link rel="stylesheet" href="/files/w3.css">-->
     <link rel="shortcut icon" href="/files/icon.ico" />
 
     <meta property="og:image" content="https://theinsidersandrush.github.io/files/logo.png">
@@ -13,15 +14,15 @@
     <meta property="og:image:width" content="1024">
     <meta property="og:image:height" content="1024">
     <meta property="og:image:type" content="image/png">
-    <meta name="description" content="Published on Thursday, 13 March 2025. / The Insider Sandrush">
+    <meta name="description" content="Read more on theinsidersandrush.github.io.">
     <meta property="og:type" content="website">
-    <meta property="og:site_name" content="The Insider Sandrush: [The State of Touhou Malaysia] The closure of Touhou Malaysia.">
-    <meta property="og:title" content="The Insider Sandrush: [The State of Touhou Malaysia] The closure of Touhou Malaysia.">
-    <meta property="og:description" content="Published on Thursday, 13 March 2025. / The Insider Sandrush">
-    <meta property="og:url" content="https://theinsidersandrush.github.io">
+    <meta property="og:site_name" content="The Insider Sandrush">
+    <meta property="og:title" content="The Insider Sandrush">
+    <meta property="og:description" content="Read more on theinsidersandrush.github.io.">
+    <meta property="og:url" content="https://theinsidersandrush.github.io/palantir">
 
 
-    <title>[The State of Touhou Malaysia] The closure. / The Insider Sandrush</title>
+    <title>The Insider Sandrush</title>
   </head>
   <body>
     <div id="topnav">
@@ -33,7 +34,7 @@
     </div>
 
     <style>
-        html#tsotm-leaving-2025{background-image: url('/files/stardustysky.gif'); background-repeat: repeat; color: white; font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}-->
+        html#palantir-reminder{background-image: url('/files/stardustysky.gif'); background-repeat: repeat; color: white; font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}-->
       a{
         text-decoration: underline 1px solid aliceblue;
       }
@@ -46,68 +47,86 @@
           border: 3px solid aliceblue;
           color: aliceblue;
           background-color: rgb(0,0,139, 0.3);
-          margin: 1%;
+          margin: 1%;}
+      #reminder{
+        padding: 3.33%;
       }
-      #image-container{
-          background-image: url("/files/logo.png");
-          background-size: 100%;
-          background-position: center;
-          background-repeat: no-repeat;
-          padding: 2.5%;
-          margin: 2.5%;
+      #divider-vertical{
+        border: 3px solid aliceblue;
       }
-      .image-container-text-centered{
-          
-          color: black;
-          height: 400px;
-          text-align: center;
-      }
-      #text-content{
-          padding: 3%;
-      }
-      .text-content-title{
-          text-align: center;
-          margin: 2%;
-      }
+      <!--From Stack Overflow-->
+      .section {
+  border: 1px solid #ccc;
+  display: flex;
+  flex-direction: row;
+  font-family: sans-serif;
+}
+
+.paragraph {
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 24px;
+  color: #ffffff;
+  line-height: 24px;
+  text-align: left;
+}
+
+.post-container {
+    margin: 50px;
+    padding: 50px;
+    border: 3px solid aliceblue;
+    overflow: auto
+}
+.post-thumb {
+    float: left
+}
+.post-thumb img {
+    display: block
+}
+.post-content {
+    margin-left: 210px
+}
+.post-title {
+    font-weight: bold;
+    font-size: 200%
+}
       </style>
       <div id="content-specific">
-        <div style="text-align: left; padding-left: 1.3%; margin: 1.3%;" id="back-to-blog">
-          <h3>
-            <a href="/blog">
-              <span class="material-symbols-outlined" style="padding-top: 1%; padding-bottom: 0.1%;">arrow_back</a></span>
-            </h3>
-          </div>
-          <div id="image-container">
-              <div class="image-container-text-centered"><br></div></div>
-            
-          <div class="text-content-title"><p>Image: Own work</p>
-              <h1>[The State of Touhou Malaysia] Temporary closure of Touhou Malaysia.</h1>
-              <p>Published on Thursday, 13 March 2025.</p>
-              <p>We are leaving, until when time is good...</p>
-          </div> 
-  
-          <div id="text-content">
-            <div id="divider"></div>
-              <p>Hello, I'm The Insider Sandrush, the owner of Touhou Malaysia on <a href="https://twitter.com/TouhouMalaysia">Twitter</a>, <a href="https://youtube.com/@TouhouMalaysia">YouTube</a>, and <a href="https://bsky.app/profile/did:plc:sdmsz7gan7wuhporbmdunnbq">Bluesky</a>.</p>
 
-              <div id="divider"></div>
-              <h2>What's that?</h2>
-              <p>In case you didn't aware about what am I talking about, here's a rundown.</p>
+        <div class="post-container">                
+    <div class="post-thumb"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" width="600px"/></div>
+    <div class="post-content">
+        <h3 class="post-title">451: Unavailable For Legal Reasons</h3>
+        <p>Parts of The Insider Sandrush website is not available to be viewed from Israel. If you're in the northern to south Gaza Strip, please use Egyptian networks.</p>
+        <a href="https://www.youtube.com/watch?v=PpljlanSNIM">YouTube link.</a>
+      </div>
+</div>
 
-                <p>Touhou Malaysia is a gimmick account project that I started in November 2023 on Twitter and on 2 December 2023 on Bluesky, where I post/Tweet Touhou Project related stuff in Malay/Bahasa Melayu.</p>
+<!--
+        <div id="reminder">
+            <section class="section">
+  <img src="https://static.wikitide.net/bluearchivewiki/9/91/Kotama_00.png" class="image" />
+  <div class="content">
 
-                <p>Like anything else, I also tend to break the character by Tweeting some unnecessary/off-topic stuff.</p>
+    <h2 class="title">
+      This is a title
+    </h2>
+    <p class="paragraph">
 
-              <div id="divider"></div>
-                <h2>When Leaving Twitter</h2>
-                <p>Starting 15 March 2025, the Touhou Malaysia project is over and will not be resumed until further notice. Thank you for the stay during November 2023 until 18 May 2024.</p>
-
-                <p>Thank you for reading.</p>
-              <div id="divider"></div>
-            <p><i>~ Sand, 13 March 2025.</i></p>
-          </div>
-        
-        
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. At non ex earum, libero dignissimos voluptates. Quis beatae dolorem autem ipsa!
+    </p>
+  </div>
+</section>
+        </div>-->
       </div>
 
     <div id="footer">
@@ -182,7 +201,7 @@
 
     document.getElementById('copyheart-statement').innerText = texts[randomIndex];
     </script>
-    <p>国際的なフェアユース著作権法を尊重してください。/ Please respect international Fair Use copyright law.</p>
+    <p><abbr title="Romaji (Google Translate): &quot;Kokusai-tekina feayūsu chosakukenhō o sonchō shite kudasai.&quot;">国際的なフェアユース著作権法を尊重してください。</abbr> / Please respect international Fair Use copyright law.</p>
         <p><a href="/licence">Learn more about the licence here.</a></p>
         <p><a href="https://github.com/theinsidersandrush/theinsidersandrush.github.io">Source code</a></p>
         <p><a href="/dir">Directory</a></p>
