@@ -1,0 +1,79 @@
+<!--WORKINPROGRESS-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latest Bluesky Post</title>
+    <style>
+        .bsky-container {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            max-width: 500px;
+            border: 1px solid #e1e8ed;
+            border-radius: 12px;
+            padding: 15px;
+            background: #fff;
+            color: #14171a;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .bsky-header { display: flex; align-items: center; margin-bottom: 10px; }
+        .bsky-avatar { width: 48px; height: 48px; border-radius: 50%; margin-right: 12px; }
+        .bsky-name { font-weight: bold; font-size: 15px; }
+        .bsky-handle { color: #657786; font-size: 14px; margin-top: 2px; }
+        .bsky-text { font-size: 15px; line-height: 1.5; white-space: pre-wrap; }
+        .bsky-date { color: #657786; font-size: 13px; margin-top: 10px; display: block; }
+    </style>
+</head>
+<body>
+
+    <!-- The container where the post will be embedded -->
+    <div class="bsky-container" id="bluesky-post">
+        <p>Loading latest post...</p>
+    </div>
+
+    <script>
+        const actor = 'did:plc:xx5mszar32fypsdude6kr5mu'; 
+
+        async function fetchLatestPost() {
+            try {
+                // Fetch the user's feed from public Bluesky AppView (no auth needed)
+                const response = await fetch(`https://bsky.app/{actor}&limit=1`);
+                const data = await response.json();
+
+                if (data.feed && data.feed.length > 0) {
+                    const postData = data.feed[0].post;
+                    const record = postData.record;
+
+                    // Extract values
+                    const text = record.text;
+                    const date = new Date(record.createdAt).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+                    const displayName = postData.author.displayName || postData.author.handle;
+                    const handle = postData.author.handle;
+                    const avatarUrl = postData.author.avatar || 'https://twimg.com';
+
+                    // Inject HTML into the container
+                    document.getElementById('bluesky-post').innerHTML = `
+                        <div class="bsky-header">
+                            <img class="bsky-avatar" src="${avatarUrl}" alt="${displayName}">
+                            <div>
+                                <div class="bsky-name">${displayName}</div>
+                                <div class="bsky-handle">@${handle}</div>
+                            </div>
+                        </div>
+                        <div class="bsky-text">${text}</div>
+                        <a href="https://bsky.app/{handle}/post/${postData.uri.split('/').pop()}" target="_blank" class="bsky-date">${date}</a>
+                    `;
+                } else {
+                    document.getElementById('bluesky-post').innerHTML = '<p>No posts found.</p>';
+                }
+            } catch (error) {
+                console.error('Error fetching Bluesky post:', error);
+                document.getElementById('bluesky-post').innerHTML = '<p>Failed to load post.</p>';
+            }
+        }
+
+        fetchLatestPost();
+    </script>
+</body>
+</html>
