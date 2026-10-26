@@ -123,9 +123,16 @@ a:active  {color:#ffffff;}  /* Selected link   */
 a.instagram{color: black; text-decoration: none;}
 .sb-pixiv{background-color: #0096fa;}
 .sb-newgrounds{background-color: #fda138;}
+.sb-odaibako{background-color: #303030;}
 .sb-deviantART{border: 2px solid #d2decc; background-color: #314537;}
 .sb-rt-reborn{background-color: #c42b31; color: #f7c03b;}
+a.rt-reborn{color: white; text-decoration: none;}
 a.oldpage{text-decoration: none;} a.oldpage:hover{text-decoration: underline;}
+
+
+.social-block-rt-reborn {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  border: 2px solid #f7c03b; color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin-bottom: 15px;}
 
 .intro-container {
   display: flex;
@@ -221,5 +228,7 @@ a.lemmy{
 }
 
 /*End of social links*/
+
+table, th, td {border: 3px solid aliceblue;}
 
 /*Start of Emoji insert*/
